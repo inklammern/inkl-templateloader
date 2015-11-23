@@ -1,0 +1,17 @@
+{
+	"name": "inkl/twigtemplateloader",
+	"description": "twig template loader",
+	"license": "MIT",
+	"authors": [{
+		"name": "Marcus",
+		"email": ""
+	}],
+	"require": {
+		"php": ">= 5.5"
+	},
+	"autoload": {
+		"psr-4": {
+			"Inkl\\TwigTemplateLoader\\": "src/"
+		}
+	}
+}
